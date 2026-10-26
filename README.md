@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Software-Asset-Management-Sam/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Software-Asset-Management-Sam?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Software-Asset-Management-Sam/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Software-Asset-Management-Sam?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Software-Asset-Management-Sam/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Software-Asset-Management-Sam?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Software-Asset-Management-Sam/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Software-Asset-Management-Sam?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Software-Asset-Management-Sam/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -68,51 +68,51 @@ The industry demonstrates a **moderately concentrated structure at the enterpris
 
 1. **[snipe/snipe-it](https://github.com/snipe/snipe-it)** [![Snipe-IT Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
    *Technology: PHP / Laravel / Docker / MySQL*  
-   The world's leading open-source IT asset and software license management system (~15,000+ GitHub stars). Empowers organizations to track software seats, associate software licenses with specific users and physical hardware, manage license checkouts and expirations, calculate asset depreciation, and enforce LDAP/SAML access with an extensive REST API.
+   The world's leading open-source IT asset and software license management system (~15,000+ GitHub_Stars). Empowers organizations to track software seats, associate software licenses with specific users and physical hardware, manage license checkouts and expirations, calculate asset depreciation, and enforce LDAP/SAML access with an extensive REST API.
 
 2. **[inventree/InvenTree](https://github.com/inventree/InvenTree)** [![InvenTree Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
    *Technology: Python / Django / React / Docker*  
-   Modern, extensible open-source inventory and asset management system (~7,700+ GitHub stars). Provides enterprise-grade stock tracking, item categorization, barcode/QR code generation, configurable lifecycle states, and a RESTful API suitable for organizing physical assets, component serials, and equipment assignments.
+   Modern, extensible open-source inventory and asset management system (~7,700+ GitHub_Stars). Provides enterprise-grade stock tracking, item categorization, barcode/QR code generation, configurable lifecycle states, and a RESTful API suitable for organizing physical assets, component serials, and equipment assignments.
 
 3. **[glpi-project/glpi](https://github.com/glpi-project/glpi)** [![GLPI Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
    *Technology: PHP / MariaDB / ITIL*  
-   Free IT asset and service management software package (~6,500+ GitHub stars). Includes comprehensive software license tracking, financial tracking, ITIL-aligned service desk, and deep CMDB functionality. Integrates with the GLPI native inventory agent for automated cross-platform software discovery and auditing.
+   Free IT asset and service management software package (~6,500+ GitHub_Stars). Includes comprehensive software license tracking, financial tracking, ITIL-aligned service desk, and deep CMDB functionality. Integrates with the GLPI native inventory agent for automated cross-platform software discovery and auditing.
 
 4. **[Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)** [![Shelf.nu Stars](https://img.shields.io/github/stars/Shelf-nu/shelf.nu?style=social&color=white)](https://github.com/Shelf-nu/shelf.nu/stargazers)  
    *Technology: TypeScript / Node.js / Next.js / Supabase*  
-   Modern open-source asset management infrastructure (~3,000+ GitHub stars) created as a collaborative, self-hosted alternative to spreadsheets. Features instant QR/barcode asset tagging, custody history logging, check-in/check-out workflows, and a minimalist web UI.
+   Modern open-source asset management infrastructure (~3,000+ GitHub_Stars) created as a collaborative, self-hosted alternative to spreadsheets. Features instant QR/barcode asset tagging, custody history logging, check-in/check-out workflows, and a minimalist web UI.
 
 5. **[nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit)** [![ScanCode Toolkit Stars](https://img.shields.io/github/stars/nexB/scancode-toolkit?style=social&color=white)](https://github.com/nexB/scancode-toolkit/stargazers)  
    *Technology: Python*  
-   Comprehensive open-source software license scanner and SBOM generator (~2,650+ GitHub stars). Scans application codebases and container images to detect commercial, open-source, and copyleft licenses, copyright notices, and dependency manifests—critical for software license compliance and legal due diligence.
+   Comprehensive open-source software license scanner and SBOM generator (~2,650+ GitHub_Stars). Scans application codebases and container images to detect commercial, open-source, and copyleft licenses, copyright notices, and dependency manifests—critical for software license compliance and legal due diligence.
 
 6. **[allegro/ralph](https://github.com/allegro/ralph)** [![Ralph Stars](https://img.shields.io/github/stars/allegro/ralph?style=social&color=white)](https://github.com/allegro/ralph/stargazers)  
    *Technology: Python / Django / MySQL*  
-   Full-featured open-source CMDB and IT Asset Management platform for datacenter and back-office infrastructure (~2,530+ GitHub stars). Built by Allegro to manage software licenses, server racks, virtualization clusters, domain ownership, and hardware lifecycles.
+   Full-featured open-source CMDB and IT Asset Management platform for datacenter and back-office infrastructure (~2,530+ GitHub_Stars). Built by Allegro to manage software licenses, server racks, virtualization clusters, domain ownership, and hardware lifecycles.
 
 7. **[Combodo/iTop](https://github.com/Combodo/iTop)** [![iTop Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
    *Technology: PHP / MySQL*  
-   Web-based open-source CMDB and IT Service Management solution (~1,200+ GitHub stars). Links software installations, user entitlements, service delivery contracts, and physical servers within a relational configuration management database.
+   Web-based open-source CMDB and IT Service Management solution (~1,200+ GitHub_Stars). Links software installations, user entitlements, service delivery contracts, and physical servers within a relational configuration management database.
 
 8. **[fossology/fossology](https://github.com/fossology/fossology)** [![FOSSology Stars](https://img.shields.io/github/stars/fossology/fossology?style=social&color=white)](https://github.com/fossology/fossology/stargazers)  
    *Technology: C / PHP / PostgreSQL*  
-   Open-source license compliance system and governance toolkit hosted under the Linux Foundation (~1,040+ GitHub stars). Runs automated license, copyright, and export control scans against software archives to generate audit-ready compliance reports and SPDX manifests.
+   Open-source license compliance system and governance toolkit hosted under the Linux Foundation (~1,040+ GitHub_Stars). Runs automated license, copyright, and export control scans against software archives to generate audit-ready compliance reports and SPDX manifests.
 
 9. **[itflow-org/itflow](https://github.com/itflow-org/itflow)** [![ITFlow Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)  
    *Technology: PHP / MariaDB*  
-   All-in-one open-source IT asset, license, and service management platform designed for internal IT teams and Managed Service Providers (MSPs) (~1,035+ GitHub stars). Features software license tracking, SSL/domain expiration alerts, vendor contract renewals, and client credential governance.
+   All-in-one open-source IT asset, license, and service management platform designed for internal IT teams and Managed Service Providers (MSPs) (~1,035+ GitHub_Stars). Features software license tracking, SSL/domain expiration alerts, vendor contract renewals, and client credential governance.
 
 10. **[tern-tools/tern](https://github.com/tern-tools/tern)** [![Tern Stars](https://img.shields.io/github/stars/tern-tools/tern?style=social&color=white)](https://github.com/tern-tools/tern/stargazers)  
     *Technology: Python*  
-    Container software composition analysis and license inspection engine (~1,030+ GitHub stars). Inspects container layer filesystems to discover installed packages, compile licenses, and generate Software Bill of Materials (SBOM) for compliance audits.
+    Container software composition analysis and license inspection engine (~1,030+ GitHub_Stars). Inspects container layer filesystems to discover installed packages, compile licenses, and generate Software Bill of Materials (SBOM) for compliance audits.
 
 11. **[OCSInventory-NG/OCSInventory-Server](https://github.com/OCSInventory-NG/OCSInventory-Server)** [![OCS Inventory Server Stars](https://img.shields.io/github/stars/OCSInventory-NG/OCSInventory-Server?style=social&color=white)](https://github.com/OCSInventory-NG/OCSInventory-Server/stargazers)  
     *Technology: Perl / C / PHP*  
-    Mature, automated IT asset discovery and software inventory management server (~400+ GitHub stars). Collects detailed hardware and software configurations via cross-platform endpoint agents and synchronizes inventory data into external CMDBs.
+    Mature, automated IT asset discovery and software inventory management server (~400+ GitHub_Stars). Collects detailed hardware and software configurations via cross-platform endpoint agents and synchronizes inventory data into external CMDBs.
 
 12. **[devcode-it/openstamanager](https://github.com/devcode-it/openstamanager)** [![OpenSTAManager Stars](https://img.shields.io/github/stars/devcode-it/openstamanager?style=social&color=white)](https://github.com/devcode-it/openstamanager/stargazers)  
     *Technology: PHP / JavaScript / MySQL*  
-    Modular open-source ERP and service management software (~150+ GitHub stars) that includes asset tracking and client software license registration tailored for technical assistance teams and IT service providers.
+    Modular open-source ERP and service management software (~150+ GitHub_Stars) that includes asset tracking and client software license registration tailored for technical assistance teams and IT service providers.
 
 ---
 
